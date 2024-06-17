@@ -1,0 +1,6 @@
+**/pgdata
+**/node_modules
+
+codealike.json
+**/codealike.json
+.vscode/
